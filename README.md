@@ -1,6 +1,7 @@
 # shopping-cart
 
 Shopping cart using react, redux and tailwindcss
+https://aiethn.github.io/shopping-cart/
 
 # Getting Started with Create React App
 
